@@ -1,0 +1,2 @@
+# paradoks
+paradoks
